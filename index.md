@@ -2,28 +2,22 @@
 
 ---
 
-### Category Name 1 
+### My Github Repositories 
 
-[Project 1 Title](/sample_page)
+[Exploring neuron clusters of Nature articles](https://github.com/RyokoNod/Clustering_Neurons)
+This is a project where I explore the findings of a couple of neuroscience articles with scikit-learn.
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[Project 2 Title](/pdf/sample_presentation.pdf)
+[Federated Learning for Pandemics](https://github.com/RyokoNod/federated-liveproject)
+This is a beta test for a Manning liveProject for using federated learning in pandemics.
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[Project 3 Title](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
 
----
+### Other Contributions
 
-### Category Name 2
-
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
+- [Text generation for WallStreetBets](https://github.com/Usin2705/RetardBot)
 
 ---
 
