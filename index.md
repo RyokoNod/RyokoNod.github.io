@@ -11,7 +11,7 @@ This is a project where I explore the findings of a couple of neuroscience artic
 ---
 [Federated Learning for Pandemics](https://github.com/RyokoNod/federated-liveproject)<br>
 This is a beta test for a Manning liveProject for using federated learning in pandemics.
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/final_graph.png?raw=true"/>
 
 ---
 
