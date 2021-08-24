@@ -6,7 +6,7 @@
 
 [Exploring neuron clusters of Nature articles](https://github.com/RyokoNod/Clustering_Neurons)<br>
 This is a project where I explore the findings of a couple of neuroscience articles with scikit-learn.
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/cluster-neurons-visual.png?raw=true"/>
 
 ---
 [Federated Learning for Pandemics](https://github.com/RyokoNod/federated-liveproject)<br>
