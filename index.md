@@ -4,12 +4,12 @@
 
 ### My Github Repositories 
 
-[Exploring neuron clusters of Nature articles](https://github.com/RyokoNod/Clustering_Neurons)
+[Exploring neuron clusters of Nature articles](https://github.com/RyokoNod/Clustering_Neurons)<br>
 This is a project where I explore the findings of a couple of neuroscience articles with scikit-learn.
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[Federated Learning for Pandemics](https://github.com/RyokoNod/federated-liveproject)
+[Federated Learning for Pandemics](https://github.com/RyokoNod/federated-liveproject)<br>
 This is a beta test for a Manning liveProject for using federated learning in pandemics.
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
